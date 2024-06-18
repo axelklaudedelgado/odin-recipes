@@ -1,0 +1,1 @@
+This project is for making the project titled "odin-recipes" of The Odin Project.
