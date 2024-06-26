@@ -10,6 +10,16 @@ body {
     background-color: white;
 }
 
+.recipe-title{
+    text-align: center;
+    border: solid black;
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px 20px;
+    background-color: white;
+}
+
 .links-list{
     list-style-position: inside;
     text-align: center;
