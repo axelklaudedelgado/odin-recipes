@@ -1,3 +1,7 @@
+body {
+    background-color: rgb(255, 227, 191);
+}
+
 .webpage-title{
     font-family: "Monaco", monospace;
     text-align: center;
@@ -18,6 +22,7 @@
     margin-left: auto;
     margin-right: auto;
     padding: 20px;
+    background-color: rgb(186, 228, 186);
 }
 
 li {
