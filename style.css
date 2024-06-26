@@ -1,6 +1,9 @@
 .webpage-title{
     font-family: "Monaco", monospace;
     text-align: center;
+    border: 5px solid rgba(136, 132, 132, 0.651);
+    padding: 4px;
+    background-color: white;
 }
 
 .links-list{
